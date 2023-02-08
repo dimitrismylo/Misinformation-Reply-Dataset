@@ -1,7 +1,7 @@
 
 # Dataset of Public Response to COVID-19 Misinformation on Twitter
 
-This repository corresponds to the dataset used in the Master's thesis [A study of Emotion Detection on COVID-19 related Misinformation on Twitter](https://www.github.com/octokatherine).
+This repository corresponds to the dataset used in the Master's thesis [A study of Emotion Detection on COVID-19 related Misinformation on Twitter](https://www.github.com/dimitrismylo).
 
 It contains a collection of around 40,000 English tweet responses from users towards Twitter posts that have been mentioned by fact-checking websites and are classified as false or partially false.
 
