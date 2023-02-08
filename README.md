@@ -31,6 +31,6 @@ Since the associated paper has not yet been published, the GitHub repo can be ci
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/dimitrismylo/project-title}}
+  howpublished = {\url{https://github.com/dimitrismylo/Misinformation-Reply-Dataset}}
 }
 ```
